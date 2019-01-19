@@ -53,12 +53,12 @@
 		<Compiler>
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
-			<Add directory="SFML/include" />
+			<Add directory="SFML-master/include/SFML" />
 			<Add directory="ALAGEngine/include" />
 			<Add directory="include" />
 		</Compiler>
 		<Linker>
-			<Add directory="SFML/lib" />
+			<Add directory="SFML-master/lib" />
 		</Linker>
 		<Unit filename="ALAGEngine/include/ALAGE/Types.h" />
 		<Unit filename="ALAGEngine/include/ALAGE/core/Asset.h" />

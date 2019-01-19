@@ -2,7 +2,7 @@
 #define GSTATE_H
 
 #include <SFML/Graphics.hpp>
-#include "ALAGE/utils/singleton.h"
+#include "ALAGE/utils/Singleton.h"
 
 namespace alag
 {

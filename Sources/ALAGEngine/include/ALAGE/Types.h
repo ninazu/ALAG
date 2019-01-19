@@ -5,8 +5,8 @@
 #include <iostream>
 #include <SFML/Graphics.hpp>
 #include <SFML/OpenGL.hpp>
-#include "AlAGE/utils/MapIterator.h"
-#include "AlAGE/utils/ListIterator.h"
+#include "ALAGE/utils/MapIterator.h"
+#include "ALAGE/utils/ListIterator.h"
 
 
 namespace alag

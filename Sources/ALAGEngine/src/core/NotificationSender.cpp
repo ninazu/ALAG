@@ -1,5 +1,5 @@
 #include "ALAGE/core/NotificationSender.h"
-#include "ALAGE/Core/NotificationListener.h"
+#include "ALAGE/core/NotificationListener.h"
 
 namespace alag
 {

@@ -1,7 +1,7 @@
 #ifndef PARSER_H
 #define PARSER_H
 
-#include "ALAGE/utils/singleton.h"
+#include "ALAGE/utils/Singleton.h"
 
 class Parser : public Singleton<Parser>
 {

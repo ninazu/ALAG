@@ -2,7 +2,7 @@
 #define TESTINGSTATE_H
 
 #include "ALAGE/core/GState.h"
-#include "ALAGE/utils/singleton.h"
+#include "ALAGE/utils/Singleton.h"
 #include "ALAGE/gfx/iso/PBRIsoScene.h"
 
 

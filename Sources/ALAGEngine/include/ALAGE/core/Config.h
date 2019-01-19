@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <map>
-#include "ALAGE/utils/singleton.h"
+#include "ALAGE/utils/Singleton.h"
 
 namespace alag{
 
